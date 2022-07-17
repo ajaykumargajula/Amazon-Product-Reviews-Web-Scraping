@@ -1,4 +1,4 @@
-# Amazon-Product-Reviews-Web-Scraping
+# Amazon-Reviews-Web-Scraping
 
 Python code to extract user reviews and ratings from https://www.amazon.in
 
